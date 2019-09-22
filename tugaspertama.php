@@ -28,4 +28,5 @@ echo $phi * $r *$r ;
 echo "<br> Keliling = 2 x phi x r = 2 x $phi x $r = ";
 echo 2 * $phi *$r ;
 
+echo "<br><br> Maaf ya telat gue udah bikin hari rabu tapi ga tau cara ngirim ke github,trus kemren gua ada acara :) maaf chundrruuu:)"
 ?> 
